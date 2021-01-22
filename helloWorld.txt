@@ -1,3 +1,4 @@
 print("Hello world)"
 print("New line added")
 print("2nd new line added while on master branch")
+print("2nd new line added")
